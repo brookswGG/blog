@@ -1,9 +1,7 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 👋 Hi there, I'm Brooks
 
-::github{repo="saicaca/fuwari"}
+I'm a passionate developer very gratefully residing on Vancouver Island, Canada.
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+I've recently graduated with a diploma in Web and Mobile Development from Vancouver island University, and I'm always looking for ways to utilize my development powers for good. I believe that there is no wasted time when it comes to learning, especially if you're having fun.
+
+In my free time, I enjoy playing my guitar, walking in the woods and riding my mountain bike on beautiful Vancouver Island. I love video games too.
