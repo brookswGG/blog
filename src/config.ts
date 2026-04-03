@@ -44,11 +44,11 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Home,
 		LinkPreset.Archive,
 		LinkPreset.About,
-		{
-			name: "GitHub",
-			url: "https://github.com/brookswGG/blog", // Internal links should not include the base path, as it is automatically added
-			external: true, // Show an external link icon and will open in a new tab
-		},
+		// {
+		// 	name: "GitHub",
+		// 	url: "https://github.com/brookswGG/blog", // Internal links should not include the base path, as it is automatically added
+		// 	external: true, // Show an external link icon and will open in a new tab
+		// },
 	],
 };
 
@@ -57,18 +57,6 @@ export const profileConfig: ProfileConfig = {
 	name: "Brooks Gill",
 	bio: "Web, mobile, and game developer from the wild West Coast.",
 	links: [
-		// {
-		//   name: "Twitter",
-		//   icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
-		//   // You will need to install the corresponding icon set if it's not already included
-		//   // `pnpm add @iconify-json/<icon-set-name>`
-		//   url: "https://twitter.com",
-		// },
-		// {
-		//   name: "Steam",
-		//   icon: "fa6-brands:steam",
-		//   url: "https://store.steampowered.com",
-		// },
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
@@ -83,7 +71,7 @@ export const profileConfig: ProfileConfig = {
 };
 
 export const licenseConfig: LicenseConfig = {
-	enable: true,
+	enable: false,
 	name: "CC BY-NC-SA 4.0",
 	url: "https://creativecommons.org/licenses/by-nc-sa/4.0/",
 };
