@@ -23,4 +23,4 @@ The _My Favourite Tech_ section was overdone, especially trying to come up with 
 
 ## 🙏 Special Thanks
 
-The [3-colour palette](https://lospec.com/palette-list/1bit-styx) I used for this site was created by Caleb spaghetti on [lospec.com](lospec.com). I love using colour palettes on the web, and I’m very happy with how it turned out here.
+The [3-colour palette](https://lospec.com/palette-list/1bit-styx) I used for this site was created by Caleb spaghetti on [lospec.com](https://lospec.com). I love using colour palettes on the web, and I’m very happy with how it turned out here.
