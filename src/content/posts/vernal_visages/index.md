@@ -5,7 +5,7 @@ description: My Global Game Jam 2026 submission.
 image: cover.png
 tags: [Godot Engine, Blender]
 category: Games
-draft: true
+draft: false
 ---
 
 Vernal Visages is my submission to [Global Game Jam 2026](https://globalgamejam.org/jam-sites/2026/vancouver-island-game-devs-nanaimo). It is a split-screen arena shooter where players pick up masks to grant them abilities in battle. This year I teamed up again with my favourite co-developer, Alister. We also had the help of additional team members [Nolan](https://github.com/NolanMeske) (programming and music) and Jordan (art). I enjoyed working with a larger team, especially since we utilized version control effectively.
